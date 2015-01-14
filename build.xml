@@ -106,6 +106,12 @@
           <exclude name="system/lib/libimageutils-new-v7a.so"/>
           <exclude name="system/lib/libzxing-new.so"/>
           <exclude name="system/lib/libzxing-new-v7a.so"/>
+          <exclude name="system/lib/libclientvision.so"/>
+          <exclude name="system/lib/libimageutils.so"/>
+          <exclude name="system/lib/libqvlib-detector.so"/>
+          <exclude name="system/lib/libwordlens-neon.so"/>
+          <exclude name="system/lib/libwordlens-slow.so"/>
+          <exclude name="system/lib/libzxing.so"/>
           <exclude name="system/tts/**"/>
           <exclude name="system/usr/**"/>
           <exclude name="system/vendor/**"/>
@@ -164,6 +170,12 @@
           <exclude name="system/lib/libimageutils-new-v7a.so"/>
           <exclude name="system/lib/libzxing-new.so"/>
           <exclude name="system/lib/libzxing-new-v7a.so"/>
+          <exclude name="system/lib/libclientvision.so"/>
+          <exclude name="system/lib/libimageutils.so"/>
+          <exclude name="system/lib/libqvlib-detector.so"/>
+          <exclude name="system/lib/libwordlens-neon.so"/>
+          <exclude name="system/lib/libwordlens-slow.so"/>
+          <exclude name="system/lib/libzxing.so"/>
       </fileset>
     </copy>
     <copy file="${app.dir}/extras/normal/updater-script"  todir="${work.dir}/META-INF/com/google/android"/>

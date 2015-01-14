@@ -89,6 +89,12 @@ lib/libwebrtc_audio_preprocessing.so
 lib/libWhisper.so
 lib/libzxing-new-v7a.so
 lib/libzxing-new.so
+lib/libclientvision.so
+lib/libimageutils.so
+lib/libqvlib-detector.so
+lib/libwordlens-neon.so
+lib/libwordlens-slow.so
+lib/libzxing.so
 priv-app/GoogleBackupTransport.apk
 priv-app/GoogleFeedback.apk
 priv-app/GoogleLoginService.apk
